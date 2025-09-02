@@ -1,9 +1,10 @@
 # <p align=center> `FLIP-MDIR:A Benchmark for Multi-Degraded Medical Image Restoration from fiber-bundle endomicroscopy`</p>
 
-(The datasets are hosted on Baidu Netdisk)
+(The datasets are hosted on both Google Drive and Baidu Netdisk)
 | Download Link | Description | 
 |:-----: |:-----: |
-| [Baidu Netdisk](https://pan.baidu.com/s/1YkCvpEBmSlK01CWr6u8VPw) (18o8) | A total of 51872 pairs for training, 6448 pairs for validation and 6368 pairs for testing. |
+https://drive.google.com/drive/folders/1uyjyuMNvwgQNxx2kVbAKoxta9OmlAmYx?usp=drive_link
+| [Google Drive](https://drive.google.com/drive/folders/1uyjyuMNvwgQNxx2kVbAKoxta9OmlAmYx?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1YkCvpEBmSlK01CWr6u8VPw) (18o8) | A total of 51872 pairs for training, 6448 pairs for validation and 6368 pairs for testing. |
 
 ### Data acquisition platform 
 ![Example](figures/platform.jpg)
@@ -25,3 +26,6 @@ The datasets are synthesized using single degradation factor (a) and multiple de
 ### Image Complexity Analysis
 ![Example](figures/PSNR.jpg)
 Our dataset contains a significantly higher proportion of challenging examples characterized by low PSNR and SSIM scores.
+
+### Contact
+If you have any questions, please feel free to reach me out at peilianghuang2017@gmail.com or draflyhan@gmail.com
