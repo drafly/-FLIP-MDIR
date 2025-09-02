@@ -3,7 +3,6 @@
 (The datasets are hosted on both Google Drive and Baidu Netdisk)
 | Download Link | Description | 
 |:-----: |:-----: |
-https://drive.google.com/drive/folders/1uyjyuMNvwgQNxx2kVbAKoxta9OmlAmYx?usp=drive_link
 | [Google Drive](https://drive.google.com/drive/folders/1uyjyuMNvwgQNxx2kVbAKoxta9OmlAmYx?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1YkCvpEBmSlK01CWr6u8VPw) (18o8) | A total of 51872 pairs for training, 6448 pairs for validation and 6368 pairs for testing. |
 
 ### Data acquisition platform 
