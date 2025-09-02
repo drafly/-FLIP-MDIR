@@ -16,7 +16,7 @@ There are 48 different diseases in our dataset, and the number of diseases varie
 
 Visualization of clustering based on low-level features of our dataset. 
 ![Example](figures/gmm_out1.jpg)
-![Example](figures/GIST results.jpg)
+![Example](figures/GISTresults.jpg)
 Top: Visualizing GIST features of our dataset using t-sne and Gaussian Mixture Models (GMM). Bottom: Cluster-center example of each cluster.
 
 ### Comparison with Previous Datasets
