@@ -20,7 +20,7 @@ Top: Visualizing GIST features of our dataset using t-sne and Gaussian Mixture M
 
 ### Comparison with Previous Datasets
 ![Example](figures/Comparison.jpg)
-Comparison on the existing synthesized datasets and the FLIP-MDIR dataset.
+The datasets are synthesized using single degradation factor (a) and multiple degradation factors (b). In contrast, the images in our dataset are degraded in real-world conditions (c), specifically due to the challenging environments encountered in fiber-bundle endomicroscopy.
 
 ### Image Complexity Analysis
 ![Example](figures/PSNR.jpg)
