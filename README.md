@@ -1,8 +1,8 @@
 # <p align=center> `FLIP-MDIR:A Benchmark for Multi-Degraded Medical Image Restoration from fiber-bundle endomicroscopy`</p>
 
 (The datasets are hosted on Baidu Netdisk)
-| Download Link |
-|:-----: |
+| Download Link | Description | 
+|:-----: |:-----: |
 | [Baidu Netdisk](https://pan.baidu.com/s/1YkCvpEBmSlK01CWr6u8VPw) (18o8) | A total of 51872 pairs for training, 6448 pairs for validation and 6368 pairs for testing. |
 
 ### Data acquisition platform 
