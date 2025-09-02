@@ -19,7 +19,7 @@ Visualization of clustering based on low-level features of our dataset.
 ![Example]()
 Top: Visualizing GIST features of our dataset using t-sne and Gaussian Mixture Models (GMM). Bottom: Cluster-center example of each cluster.
 
-### Comparisons with Previous Datasets
+### Comparison with Previous Datasets
 ![Example]()
 Comparison on the existing synthesized datasets and the FLIP-MDIR dataset.
 
