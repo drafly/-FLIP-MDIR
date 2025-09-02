@@ -6,7 +6,7 @@
 | [Baidu Netdisk](https://pan.baidu.com/s/1YkCvpEBmSlK01CWr6u8VPw) (18o8) | A total of 51872 pairs for training, 6448 pairs for validation and 6368 pairs for testing. |
 
 ### Data acquisition platform 
-(figure/platform.pdf)
+[View the full diagram (PDF)](figure/platform.pdf)
 Our data acquisition platform with beam splitter equipment, which enables us to collect real-world degraded-clean image pairs simultaneously. (a) Schematic diagram of our beam splitter equipment.
 (b) Physical Diagram of our beam splitter equipment. (c) Pathological sections used in dataset collection.
 
