@@ -1,5 +1,4 @@
-# -FLIP-MDIR
-A Benchmark for Multi-Degraded Medical Image Restoration from fiber-bundle endomicroscopy
+# <p align=center> `FLIP-MDIR:A Benchmark for Multi-Degraded Medical Image Restoration from fiber-bundle endomicroscopy`</p>
 
 (The datasets are hosted on Baidu Netdisk)
 | Download Link |
