@@ -14,7 +14,7 @@ Our data acquisition platform with beam splitter equipment, which enables us to 
 ![Example](figures/properties.jpg)
 There are 48 different diseases in our dataset, and the number of diseases varies because of the different sizes of tissue sections.
 
-###Visualization of clustering
+### Visualization of cluster
 ![Example](figures/gmm.jpg)
 Top: Visualizing GIST features of our dataset using t-sne and Gaussian Mixture Models (GMM). Bottom: Cluster-center example of each cluster.
 
